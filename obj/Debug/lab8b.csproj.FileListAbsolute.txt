@@ -1,0 +1,7 @@
+C:\Users\Safa\source\repos\lab8b\bin\Debug\lab8b.exe.config
+C:\Users\Safa\source\repos\lab8b\bin\Debug\lab8b.exe
+C:\Users\Safa\source\repos\lab8b\bin\Debug\lab8b.pdb
+C:\Users\Safa\source\repos\lab8b\obj\Debug\lab8b.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\lab8b\obj\Debug\lab8b.exe
+C:\Users\Safa\source\repos\lab8b\obj\Debug\lab8b.pdb
+C:\Users\Safa\source\repos\lab8b\obj\Debug\lab8b.csprojResolveAssemblyReference.cache
